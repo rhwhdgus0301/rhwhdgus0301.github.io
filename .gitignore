@@ -1,0 +1,9 @@
+/public/
+/resources/
+/assets/jsconfig.json
+hugo_stats.json
+/.hugo_build.lock
+/node_modules/
+/dist/
+.DS_Store
+Thumbs.db

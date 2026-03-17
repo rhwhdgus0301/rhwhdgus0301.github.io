@@ -1,0 +1,72 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Jonghyeon Ko
+  given: Jonghyeon
+  family: Ko
+  alternate: ''
+  pronunciation: ''
+  pronouns: he/him
+postnominals: []
+status:
+  icon: ""
+role: Physics Student & Researcher
+bio: |
+  Senior undergraduate in Physics at Seoul National University.
+  Researching stellarator plasma optimization.
+
+affiliations:
+  - name: Seoul National University
+    url: https://www.snu.ac.kr/
+
+links:
+  - icon: at-symbol
+    url: mailto:gojonghyeon0301@gmail.com
+    label: E-mail Me
+  - icon: brands/github
+    url: https://github.com/rhwhdgus
+  - icon: brands/instagram
+    url: https://instagram.com/_tntjr_
+
+interests:
+  - Plasma Physics
+  - Stellarator Optimization
+  - Computational Physics
+  - Mathematical Physics
+
+education:
+  - degree: B.S. Physics
+    institution: Seoul National University
+    start: 2021-03-01
+    summary: ""
+
+experience: []
+
+skills:
+  - name: Research
+    items:
+      - label: Plasma Physics
+        level: 4
+      - label: Stellarator Optimization
+        level: 4
+      - label: Computational Simulation
+        level: 4
+  - name: Programming
+    items:
+      - label: Python
+        level: 4
+      - label: MATLAB
+        level: 3
+      - label: LaTeX
+        level: 4
+
+languages:
+  - name: Korean
+    level: 5
+    label: Native
+  - name: English
+    level: 4
+    label: Fluent
+
+awards: []
