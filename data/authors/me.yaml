@@ -11,23 +11,21 @@ name:
 postnominals: []
 status:
   icon: ""
-role: Physics Student & Researcher
+role: Nuclear Engineering Student & Researcher
 bio: |
-  Senior undergraduate in Physics at Seoul National University.
+  Undergraduate in Nuclear Engineering at Seoul National University.
   Researching stellarator plasma optimization.
 
 affiliations:
-  - name: Seoul National University
-    url: https://www.snu.ac.kr/
+  - name: Seoul National University, Department of Nuclear Engineering
+    url: https://nucleng.snu.ac.kr/
 
 links:
   - icon: at-symbol
-    url: mailto:gojonghyeon0301@gmail.com
+    url: mailto:rhwhdgus@snu.ac.kr
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/rhwhdgus
-  - icon: brands/instagram
-    url: https://instagram.com/_tntjr_
+    url: https://github.com/rhwhdgus0301
 
 interests:
   - Plasma Physics
@@ -36,9 +34,9 @@ interests:
   - Mathematical Physics
 
 education:
-  - degree: B.S. Physics
+  - degree: B.S. Nuclear Engineering
     institution: Seoul National University
-    start: 2021-03-01
+    start: 2023-03-01
     summary: ""
 
 experience: []

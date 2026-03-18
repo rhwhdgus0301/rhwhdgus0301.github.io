@@ -13,7 +13,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "고종현"
+    name: "Jonghyeon Ko"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: "Seoul National University"
     # Schema.org type for structured data
@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "Physics Student & Researcher"
     # Site meta description for search engines and social sharing
-    description: "Jonghyeon Ko — Physics student & researcher at Seoul National University. Stellarator plasma optimization."
+    description: "Jonghyeon Ko — Nuclear Engineering student & researcher at Seoul National University. Stellarator plasma optimization."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: ""
@@ -224,7 +224,7 @@ hugoblox:
     baidu: ""
     yandex: ""
     pinterest: ""
-    naver: "f7ac11bb0cba6acb5daa5be3d3211aecd530c7b9"
+    naver: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # REPOSITORY

@@ -33,7 +33,7 @@ sections:
       title: 'My Research'
       subtitle: ''
       text: |-
-        I am a senior undergraduate in Physics at Seoul National University, focusing on **stellarator plasma optimization**.
+        I am an undergraduate in Nuclear Engineering at Seoul National University, focusing on **stellarator plasma optimization**.
 
         My research interests include plasma confinement, magnetic field optimization, and computational methods for fusion energy devices.
     design:
@@ -82,7 +82,7 @@ sections:
       title: Contact
       subtitle: ''
       text: |-
-        Feel free to reach out via email at [gojonghyeon0301@gmail.com](mailto:gojonghyeon0301@gmail.com) or connect with me on [GitHub](https://github.com/rhwhdgus).
+        Feel free to reach out via email at [rhwhdgus@snu.ac.kr](mailto:rhwhdgus@snu.ac.kr) or connect with me on [GitHub](https://github.com/rhwhdgus0301).
     design:
       columns: '1'
 ---
