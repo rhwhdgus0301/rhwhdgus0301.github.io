@@ -5,7 +5,7 @@ authors:
   - T. Jeong
   - J. Jang
   - S. Lee
-  - Jonghyeon Ko
+  - J. H. Ko
   - D. Panici
   - E. Kolemen
 date: 2025-11-01
